@@ -1,3 +1,6 @@
+This fork is for making contributions to JazzMaverick's version.
+
+
 This tree contains BLHeli code for sensorless brushless motor electronic speed control (ESC) boards.  
   
 To view and use the files, click the "Clone or download" button on this page,  
